@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>calcBsFBsS</name>
+    <name>CalcBsFBsS</name>
     <description>
-        A blank PhoneGap app.
+        Calculadora de reconversión monetaria de Bolívares Fuertes a Bolívares Soberanos, para ayudar al pueblo a entender la reconversión.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="jatskaneda@gmail.com" href="https://github.com/jatskaneda">
+        jatskaneda
     </author>
     <content src="index.html" />
     <access origin="*" />
